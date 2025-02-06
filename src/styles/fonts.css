@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'SF Pro regular';
+    src: url('/fonts/SF-Pro-Display-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'SF Pro itallic';
+    src: url('/fonts/SF-Pro-Italic.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+
+
+
+  @theme {
+    --font-new: "SF Pro itallic", sans-serif; 
+  }
